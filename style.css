@@ -4,8 +4,14 @@ body {
     }
 
 .custom-line {
-    width: 600px;
+  width: 600px;
+}
+
+@media (max-width: 600px) {
+  .custom-line {
+    width: 100px;
   }
+}
 
     .text-neutral-600 {
       color: #e2e8f0;
