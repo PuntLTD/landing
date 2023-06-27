@@ -1,4 +1,69 @@
-/* Mobile styles */
+body {
+      background-color: #1a202c;
+      color: #e2e8f0;
+    }
+    
+    .text-neutral-600 {
+      color: #e2e8f0;
+    }
+    
+    .text-gray-500 {
+      color: #a0aec0;
+    }
+    
+    .bg-white {
+      background-color: #2d3748;
+    }
+    
+    .text-black {
+      color: #e2e8f0;
+    }
+    
+    .text-slate-500 {
+      color: #a0aec0;
+    }
+    
+    .bg-[#f5f5f5] {
+      background-color: #4a5568;
+    }
+    
+    .text-indigo-600 {
+      color: #d53f8c;
+    }
+    
+    .bg-indigo-600 {
+      background-color: #805ad5;
+    }
+    
+    .text-white {
+      color: #e2e8f0;
+    }
+    
+    .dark\:bg-gray-900 {
+      background-color: #1a202c;
+    }
+    
+    .dark\:text-gray-900 {
+      color: #e2e8f0;
+    }
+    
+    .dark\:text-gray-800 {
+      color: #a0aec0;
+    }
+    
+    .dark\:text-white {
+      color: #e2e8f0;
+    }
+    
+    .dark\:bg-indigo-600 {
+      background-color: #805ad5;
+    }
+    
+    .dark\:text-indigo-600 {
+      color: #d53f8c;
+    }
+
+    /* Mobile styles */
 @media screen and (max-width: 767px) {
   .small-image {
     width: 70px;
